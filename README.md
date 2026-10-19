@@ -1,14 +1,19 @@
-# Hi, I'm Anees 👋
+<h2 align="center">Anees · BricByBric</h2>
 
-I'm a full-stack developer in Dubai building AI-powered commerce products at BricByBric. Lately I also build tools that make AI coding assistants more reliable.
+<p align="center">
+Full-stack developer in Dubai, building AI-powered commerce products<br>
+and tools that keep AI coding assistants honest.
+</p>
 
-## Open source
+<p align="center"><sub>Shopify · SaaS · AI agents</sub></p>
 
-- [susanoo](https://github.com/Breadstick-Crumbs/susanoo)
-  Workflow guardrails for Claude Code: it sorts each task into a fast, standard or deep workflow, holds edits until you approve the plan, and wants test evidence before calling anything done.
-- [taste-ui](https://github.com/Breadstick-Crumbs/taste-ui)
-  A Claude skill that designs interfaces from your own taste profile, built from sites you love, instead of generic model defaults.
-- [AutoFly](https://github.com/Breadstick-Crumbs/AutoFly)
-  Watches flight prices and notifies you the moment one drops below your threshold.
-- [chatbot](https://github.com/Breadstick-Crumbs/chatbot)
-  A WhatsApp sales assistant.
+---
+
+### What I'm building
+
+| Project | What it does |
+| --- | --- |
+| [**susanoo**](https://github.com/Breadstick-Crumbs/susanoo) | Sorts each coding task into a fast, standard or deep workflow and asks for test evidence before calling it done |
+| [**taste-ui**](https://github.com/Breadstick-Crumbs/taste-ui) | A Claude skill that designs interfaces from your own taste profile instead of model defaults |
+| [**AutoFly**](https://github.com/Breadstick-Crumbs/AutoFly) | Watches flight prices and pings you when one drops below your limit |
+| [**chatbot**](https://github.com/Breadstick-Crumbs/chatbot) | A WhatsApp sales assistant |
