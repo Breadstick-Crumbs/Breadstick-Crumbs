@@ -16,4 +16,3 @@ and tools that keep AI coding assistants honest.
 | [**susanoo**](https://github.com/Breadstick-Crumbs/susanoo) | Sorts each coding task into a fast, standard or deep workflow and asks for test evidence before calling it done |
 | [**taste-ui**](https://github.com/Breadstick-Crumbs/taste-ui) | A Claude skill that designs interfaces from your own taste profile instead of model defaults |
 | [**AutoFly**](https://github.com/Breadstick-Crumbs/AutoFly) | Watches flight prices and pings you when one drops below your limit |
-| [**chatbot**](https://github.com/Breadstick-Crumbs/chatbot) | A WhatsApp sales assistant |
