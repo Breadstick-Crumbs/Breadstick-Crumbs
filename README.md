@@ -16,3 +16,4 @@ and tools that keep AI coding assistants honest.
 | [**susanoo**](https://github.com/Breadstick-Crumbs/susanoo) | Sorts each coding task into a fast, standard or deep workflow and asks for test evidence before calling it done |
 | [**taste-ui**](https://github.com/Breadstick-Crumbs/taste-ui) | A Claude skill that designs interfaces from your own taste profile instead of model defaults |
 | [**AutoFly**](https://github.com/Breadstick-Crumbs/AutoFly) | Watches flight prices and pings you when one drops below your limit |
+| [**fanout**](https://github.com/Breadstick-Crumbs/fanout) | A Claude Code skill and a small checker for running several Claude Code sessions in parallel git worktrees without them stepping on each other. |
